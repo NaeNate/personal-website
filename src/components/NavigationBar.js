@@ -12,4 +12,5 @@ const NavigationBar = () => (
   </header>
 );
 
+
 export default NavigationBar
